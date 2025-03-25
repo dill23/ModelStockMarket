@@ -1,9 +1,9 @@
 #ModaleStockMarket
 #version 0.0.0
-import tkinter as r
+import tkinter as T
 
 def main():
-    root = r.TK()
+    root = T.TK()
 
 if __name__ == "__main__":
     main()
